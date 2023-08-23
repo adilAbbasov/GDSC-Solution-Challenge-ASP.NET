@@ -1,0 +1,57 @@
+﻿@model UserSignUpViewModel
+
+<div class="container-fluid registration-page p-0" id="signup-page">
+	<div class="container-fluid registration-page-bg">
+		<div class="registration">
+			<h1 class="m-0">Signup</h1>
+
+			@if (ViewBag.ErrorMessage != null)
+			{
+				<span class="px-3 pt-2">@ViewBag.ErrorMessage</span>
+			}
+
+			<form method="post" asp-action="SignUp" asp-controller="User">
+				<div class="registration-field">
+					<input asp-for="FirstName" type="text" required>
+					<label>First name</label>
+				</div>
+				<span asp-validation-for=FirstName></span>
+
+				<div class="registration-field">
+					<input asp-for="LastName" type="text" required>
+					<label>Last name</label>
+				</div>
+				<span asp-validation-for=LastName></span>
+
+				<div class="registration-field">
+					<input asp-for="Email" type="text" required>
+					<label>Email</label>
+				</div>
+				<span asp-validation-for=Email></span>
+
+				<div class="registration-field">
+					<input id="password" asp-for="Password" type="password" required>
+					<label>Password</label>
+				</div>
+				<div class="togglePasswordVisibility">
+					<input type="checkbox" id="show-password" onclick="togglePasswordVisibility()">
+					<label for="show-password">Show Password</label>
+				</div>
+				<span asp-validation-for=Password></span>
+
+				@*<a href="#" id="forgot">Forgot Password?</a>*@
+
+				<input class="mt-3" type="submit" value="Signup">
+
+				<div id="link">
+					Already have an account? <a asp-action="Login" asp-controller="User">Login</a>
+				</div>
+			</form>
+			@*<p><a asp-area="" asp-controller="User" asp-action="Google_Login">Login</a></p>*@
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	<script src="~/js/user/showPassword.js"></script>
+}

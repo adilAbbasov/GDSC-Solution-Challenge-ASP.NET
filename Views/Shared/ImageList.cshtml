@@ -1,0 +1,105 @@
+﻿@model List<Picture>
+
+@{
+	int count = 3;
+
+	var listImage = new List<List<Picture>>()
+	{
+		new List<Picture>(),
+		new List<Picture>(),
+		new List<Picture>()
+	};
+
+	if (Model.Count > 0)
+	{
+		int loopCount = 0;
+
+		int totalCount = Model.Count;
+		int remain = totalCount % count;
+
+		int limit = 0;
+
+		if (totalCount < count)
+		{
+			limit = 1;
+			loopCount = remain;
+		}
+		else
+		{
+			limit = totalCount / count;
+			loopCount = count;
+		}
+
+		//
+		for (int i = 0; i < loopCount; i++)
+		{
+			for (int j = i * limit; j < (i + 1) * limit; j++)
+			{
+				listImage[i].Add(Model[j]);
+			}
+		}
+
+		//
+		if (loopCount == count)
+		{
+			for (int i = 0; i < remain; i++)
+			{
+				listImage[i].Add(Model[(totalCount - remain) + i]);
+			}
+		}
+	}
+}
+
+@if (Model.Count != 0)
+{
+	@for (int i = 0; i < count; i++)
+	{
+		<div class="image-column">
+
+			@foreach (var item in listImage[i])
+			{
+				<div class="card" id="image_card">
+					<img class="card-img-top probootstrap-animate" src="@item.ImageUrl" alt="Card image cap">
+
+					<div class="card-div d-flex flex-column justify-content-between align-items-end">
+						<div class="d-flex flex-row w-100 justify-content-between align-items-center mt-3 px-3">
+							@if (item.Title.Length > 18)
+							{
+								<p style="color: #fff; margin: 0;" title="@item.Title">@item.Title.Substring(0, 15) ...</p>
+							}
+							else
+							{
+								<p style="color: #fff; margin: 0;">@item.Title</p>
+							}
+
+							<div class="d-flex flex-row">
+								<button class="card-div-btn bubbly-button mr-2">
+									<span class="like-span bubbly-button" id="@item.ImageUrl" name="heart" onclick="likeImage(this)">
+										<i class="fa-solid fa-heart"></i>
+									</span>
+								</button>
+
+								<button class="card-div-btn" id="download">
+									<span class="DownloadButton" id="@item.ImageUrl" onclick="downloadImage(this)">
+										<i class="fa-solid fa-download"></i>
+									</span>
+								</button>
+							</div>
+						</div>
+
+						<div class="mb-3 mr-3 d-flex justify-content-end">
+							<a href="@Url.Action( "ImageInfo", "Home", new {  Id = item.ImageUrl })" id="more">
+								<span class="py-2 px-3">More</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			}
+
+		</div>
+		<br />
+	}
+}
+else{
+	<h1 style="width: 100%; text-align: center;">No results found</h1>
+}

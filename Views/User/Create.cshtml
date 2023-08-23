@@ -1,0 +1,48 @@
+﻿@model AddImageViewModel
+
+<div class="container-fluid centerDiv">
+	<div class="col-xl-10 mx-auto p-0" id="dragger_wrapper">
+		<div class="col-xl-6 p-2 add-image">
+			<div id="dragger">
+				<div class="icon">
+					<i class="fa-solid fa-images"></i>
+				</div>
+				<h3 id="drag-text">Drag and drop file</h3>
+				<button class="py-1 px-4" id="browseFile" onclick="inputClick()">Browse</button>
+				<span id="error-message" class="text-danger mt-5 px-3"></span>
+				<input type="file" hidden id="fileInputField" accept="image/png,image/jpg,image/jpeg,image/gif" />
+			</div>
+		</div>
+		<div class="col-xl-6 p-2 add-details">
+			<form method="post" asp-action="Create" asp-controller="User" id="createImageForm" class="w-100 h-100 d-flex flex-row" enctype="multipart/form-data">
+				<div class="col-xl-12 p-0">
+					<h3 style="text-align: center; margin: 0; padding-top: 10px;">Add Image</h3>
+
+					<div class="create-image">
+						<input type="text" asp-for="Title" placeholder="Title" required />
+					</div>
+
+					<div class="create-image">
+						<div class="wrapper">
+							<div class="content">
+								<p>Press <span>space</span> after each tag</p>
+								<ul id="tagUl">
+									<input id="tagInput" type="text" spellcheck="false" required>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<div class="d-flex align-items-center justify-content-center mt-2">
+						<input class="submitBtn" type="submit" onclick="sendData()" value="Create">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	<script src="~/js/user/dragdrop.js"></script>
+	<script src="~/js/user/taginput.js"></script>
+}

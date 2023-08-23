@@ -1,0 +1,41 @@
+﻿@model User
+
+<div id="user-info">
+	<div id="user-link">
+
+		<a asp-action="Liked" asp-controller="User" title="Your profile">@Model.FirstName?.ToUpper().ToCharArray()[0]</a>
+	</div>
+
+	<div class="options">
+		<input class="dropdown" type="checkbox" id="dropdown" name="dropdown" />
+
+		<label class="for-dropdown" for="dropdown" title="More options">
+			<i class="fa-solid fa-chevron-down"></i>
+		</label>
+
+		<div class="section-dropdown">
+			<span>Account</span>
+			<a asp-action="Liked" asp-controller="User" id="account">
+				<div class="account-img">
+					<span>@Model.FirstName?.ToUpper().ToCharArray()[0]</span>
+				</div>
+
+				<div id="account-info">
+					<span>@Model.UserName</span>
+					<span>@Model.Email</span>
+				</div>
+			</a>
+			<span>Options</span>
+			@if (Model.IsUser)
+			{
+				<a asp-action="Settings" asp-controller="User">Settings</a>
+			}
+			else
+			{
+				<a asp-action="Settings" asp-controller="Company">Settings</a>
+			}
+			<a href="#">Privacy & Policy</a>
+			<a asp-action="LogOut" asp-controller="User">Log out</a>
+		</div>
+	</div>
+</div>

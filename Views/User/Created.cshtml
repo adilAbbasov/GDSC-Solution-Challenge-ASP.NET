@@ -1,0 +1,159 @@
+﻿@model User
+
+@{
+	int count = 3;
+
+	var listImage = new List<List<Picture>>()
+	{
+		new List<Picture>(),
+		new List<Picture>(),
+		new List<Picture>()
+	};
+
+	if (ViewBag.Images.Count > 0)
+	{
+		int loopCount = 0;
+
+		int totalCount = ViewBag.Images.Count;
+		int remain = totalCount % count;
+
+		int limit = 0;
+
+		if (totalCount < count)
+		{
+			limit = 1;
+			loopCount = remain;
+		}
+		else
+		{
+			limit = totalCount / count;
+			loopCount = count;
+		}
+
+		//
+		for (int i = 0; i < loopCount; i++)
+		{
+			for (int j = i * limit; j < (i + 1) * limit; j++)
+			{
+				listImage[i].Add(ViewBag.Images[j]);
+			}
+		}
+
+		//
+		if (loopCount == count)
+		{
+			for (int i = 0; i < remain; i++)
+			{
+				listImage[i].Add(ViewBag.Images[(totalCount - remain) + i]);
+			}
+		}
+	}
+}
+
+<div class="container-fluid p-4">
+	<div class="d-flex flex-column align-items-center justify-content-center">
+		<div class="mb-2" id="profile-picture">
+			<a href="#">@Model.FirstName.ToUpper().ToCharArray()[0]</a>
+		</div>
+		<div class="d-flex align-items-center" id="profile-name">
+			<h1 class="m-0">@Model.FirstName</h1>
+		</div>
+		<div class="mt-2 mb-3 d-flex align-items-center" id="profile-email">
+			<h6 class="m-0">@Model.Email</h6>
+		</div>
+		<div class="my-2" id="profile-options">
+			@*<a href="#" class="py-2 px-3 mr-1">Share</a>*@
+			@if (Model.IsUser)
+			{
+				<a asp-action="Settings" asp-controller="User" class="py-2 px-3">Edit profile</a>
+			}
+			else
+			{
+				<a asp-action="Settings" asp-controller="Company" class="py-2 px-3">Edit profile</a>
+			}
+		</div>
+		<div class="my-5" id="profile-info">
+			<a asp-action="Created" asp-controller="User" class="mr-3 info-active">Created</a>
+			<a asp-action="Liked" asp-controller="User" class="ml-3">Liked</a>
+		</div>
+	</div>
+
+	@if (ViewBag.Images.Count > 0)
+	{
+		<div class="card-columns">
+
+			@for (int i = 0; i < count; i++)
+			{
+				<div class="image-column">
+
+					@foreach (var item in listImage[i])
+					{
+						<div class="card" id="image_card">
+							<img class="card-img-top probootstrap-animate" src="@item.ImageUrl" alt="Card image cap">
+
+							<div class="card-div d-flex flex-column justify-content-between align-items-end">
+								<div class="d-flex flex-row w-100 justify-content-between align-items-center mt-3 px-3">
+									@if (item.Title.Length > 18)
+									{
+										<p style="color: #fff; margin: 0;" title="@item.Title">@item.Title ...</p>
+									}
+									else
+									{
+										<p style="color: #fff; margin: 0;">@item.Title</p>
+									}
+
+									<div class="d-flex flex-row">
+										<button class="card-div-btn bubbly-button mr-2">
+											<span class="like-span bubbly-button" id="@item.ImageUrl" name="heart" onclick="likeImage(this)">
+												<i class="fa-solid fa-heart"></i>
+											</span>
+										</button>
+
+										<button class="card-div-btn" id="download">
+											<span class="DownloadButton" id="@item.ImageUrl" onclick="downloadImage(this)">
+												<i class="fa-solid fa-download"></i>
+											</span>
+										</button>
+									</div>
+								</div>
+
+								<div class="mb-3 px-3 w-100 d-flex justify-content-between">
+									<button class="card-div-btn" id="@item.ImageUrl" onclick="deleteImage(this)">
+										<span>
+											<i class="fa-solid fa-trash"></i>
+										</span>
+									</button>
+
+									@*<lord-icon src="https://cdn.lordicon.com/jmkrnisz.json"
+										trigger="hover"
+										colors="primary:#121331"
+										state="hover-empty"
+										style="width:30px;height:30px">
+									</lord-icon>*@
+
+									<a href="@Url.Action( "ImageInfo", "Home", new { Id = item.ImageUrl })" id="more">
+										<span class="py-2 px-3">More</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					}
+
+				</div>
+			}
+
+		</div>
+	}
+	else
+	{
+		<div class="w-100 d-flex flex-column justify-content-center align-items-center">
+			<h3>There is no image created</h3>
+
+			<a asp-action="Create" asp-controller="User" style="background-color: #1FAD9F; color: #fff; padding: 8px 16px; border-radius: 20px;">Create</a>
+		</div>
+	}
+</div>
+
+@section Scripts{
+	<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+}

@@ -1,0 +1,20 @@
+﻿@using PhotoHome.Models.Entity
+
+@model Tag
+
+<div class="content-wrapper flex flex-col items-center w-full">
+    <h4 class="h4 my-3">Add Tag</h4>
+
+    <form class="forms-sample" asp-action="AddTag" asp-controller="Tag" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="name">Name</label><br />
+            <input id="name" asp-for="Name" type="text" class="form-contro my-2 px-2 py-1 border-2 border-solid border-teal-300 rounded" required>
+            <span asp-validation-for=Name class="text-sm text-red-500 mb-2"></span>
+        </div>
+
+        <div class="flex justify-end mt-3">
+            <button type="submit" class="btn-primary btn-shadow mr-2">Add</button>
+            <a href="@Url.Action("Index", "Tag")" class="btn-danger btn-shadow ml-2">Cancel</a>
+        </div>
+    </form>
+</div>

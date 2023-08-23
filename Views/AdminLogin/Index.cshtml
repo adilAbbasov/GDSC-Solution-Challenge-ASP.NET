@@ -1,0 +1,72 @@
+﻿@{
+	Layout = null;
+}
+
+@model LogInViewModel
+
+<head>
+	<title>PhotoHome</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	@*<meta name="keywords"
+	content="free bootstrap 4, free bootstrap 4 template, free website templates, free html5, free template, free website template, html5, css3, mobile first, responsive" />*@
+
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+
+	<link rel="stylesheet" href="~/css/user/bootstrap.min.css">
+	<link rel="stylesheet" href="~/css/user/open-iconic-bootstrap.min.css">
+	<link rel="stylesheet" href="~/css/user/style.css">
+	<link rel="stylesheet" href="~/css/user/background.css">
+</head>
+
+<body>
+	<div class="container-fluid registration-page p-0">
+		<div class="container-fluid registration-page-bg">
+			<div class="registration">
+				<h1 class="m-0">Login</h1>
+
+				@if (ViewBag.ErrorMessage != null)
+				{
+					<span class="px-3 pt-2">@ViewBag.ErrorMessage</span>
+				}
+
+				<form method="post" asp-action="Login" asp-controller="User">
+					<input type="hidden" name="returnUrl" value="@ViewBag.ReturnUrl" class="form-control" />
+
+					<div class="registration-field">
+						<input asp-for="Email" type="text" required>
+						<label>Email</label>
+					</div>
+					<span asp-validation-for="Email"></span>
+
+					<div class="registration-field">
+						<input id="password" asp-for="Password" type="password" required>
+						<label>Password</label>
+					</div>
+					<div class="togglePasswordVisibility">
+						<input type="checkbox" id="show-password" onclick="togglePasswordVisibility()">
+						<label for="show-password">Show Password</label>
+					</div>
+					<span it="password_span" asp-validation-for="Password"></span>
+
+					<input class="mt-3" type="submit" value="Login">
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	@* for animated background *@
+
+	<div class='light x1'></div>
+	<div class='light x2'></div>
+	<div class='light x3'></div>
+	<div class='light x4'></div>
+	<div class='light x5'></div>
+	<div class='light x6'></div>
+	<div class='light x7'></div>
+	<div class='light x8'></div>
+	<div class='light x9'></div>
+
+	<script src="~/js/user/showPassword.js"></script>
+</body>

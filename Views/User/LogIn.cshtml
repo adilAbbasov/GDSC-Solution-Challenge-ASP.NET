@@ -1,0 +1,46 @@
+﻿@model LogInViewModel
+
+<div class="container-fluid registration-page p-0" id="login-page">
+	<div class="container-fluid registration-page-bg">
+		<div class="registration">
+			<h1 class="m-0">Login</h1>
+
+			@if (ViewBag.ErrorMessage != null)
+			{
+				<span class="px-3 pt-2">@ViewBag.ErrorMessage</span>
+			}
+
+			<form method="post" asp-action="Login" asp-controller="User">
+				<input type="hidden" name="returnUrl" value="@ViewBag.ReturnUrl" class="form-control" />
+
+				<div class="registration-field">
+					<input asp-for="Email" type="text" required>
+					<label>Email</label>
+				</div>
+				<span asp-validation-for=Email></span>
+
+				<div class="registration-field">
+					<input id="password" asp-for="Password" type="password" required>
+					<label>Password</label>
+				</div>
+				<div class="togglePasswordVisibility">
+					<input type="checkbox" id="show-password" onclick="togglePasswordVisibility()">
+					<label for="show-password">Show Password</label>
+				</div>
+				<span asp-validation-for=Password></span>
+
+				@*<a href="#" id="forgot">Forgot Password?</a>*@
+
+				<input class="mt-3" type="submit" value="Login">
+
+				<div id="link">
+					Don’t have an account? <a asp-action="SignUp" asp-controller="User">Signup</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	<script src="~/js/user/showPassword.js"></script>
+}

@@ -1,0 +1,95 @@
+﻿@model List<Company>
+
+<div class="container-fluid p-3">
+	<div class="d-flex mb-4" id="search-bar">
+		<div id="searchDiv" tabindex="0">
+			@using (Html.BeginForm(null, null, FormMethod.Post, new { style = "width: 100%; display: flex;", onsubmit = "return sendSearchData(event);", id = "searchForm" }))
+			{
+				<button id="searchSubmitBtn" type="submit" onclick="sendSearchData(event)">
+					<span><i class="fa fa-search"></i></span>
+				</button>
+
+				@Html.TextBox("searchTxtBx", null, new { style="width: 100%; margin-left: 10px; border: none; background-color: transparent; outline: none; border-radius: 20px", placeholder="Search", id="searchTxtBx"} )
+			}
+		</div>
+		<div class="d-flex justify-content-end align-items-center w-25">
+			@{
+				if (User.Identity.IsAuthenticated)
+				{
+					if (User.IsInRole("Admin"))
+					{
+						<partial name="BeforeRegistration" />
+					}
+					else
+					{
+						<span id="noti-bell" onclick="notiClick()">
+							<i class="fa-regular fa-bell"></i>
+
+							@if (ViewBag.NotificationMessages?.Count > 0)
+							{
+								<div id="noti-count" onclick="notiClick()">
+									<i class="fa-solid fa-1"></i>
+								</div>
+							}
+						</span>
+
+						<partial name="AfterRegistration" model="@ViewBag.User" />
+					}
+				}
+				else
+				{
+					<partial name="BeforeRegistration" />
+				}
+			}
+		</div>
+	</div>
+
+	<div id="searchSuggestions">
+		<ul id="suggestionsUL"></ul>
+	</div>
+
+	<div id="notifications">
+		<div style="display: flex; align-items: center; justify-content: space-between;">
+			<h4 id="noti-header">Notifications</h4>
+
+			@if (ViewBag.NotificationMessages?.Count > 0)
+			{
+				<span id="mark-read" title="Mark all as read" onclick="markAsRead()">
+					<i class="fa-solid fa-check"></i>
+				</span>
+			}
+		</div>
+
+		<ul id="notificationsUl">
+			@if (ViewBag.NotificationMessages?.Count == 0)
+			{
+				<p style="margin: 0; padding: 5px 10px;">There are currently no notifications for you.</p>
+			}
+
+			@for (int i = 0; i < ViewBag.NotificationMessages?.Count; i++)
+			{
+				<li class="noti-li" onclick="notiClick(this)">
+					<div class="noti-text">
+						<div style="width: 290px">
+							@ViewBag.NotificationMessages[i]
+						</div>
+						<div style="color: #1FAD9F; font-size: .8em;">
+							@ViewBag.NotificationTimes[i]
+						</div>
+					</div>
+					<div class="noti-new" style="width: 15px; height: 15px; background-color: #1FAD9F; border-radius: 50%;"></div>
+				</li>
+			}
+		</ul>
+	</div>
+
+	<div class="card-columns" id="divajaxCall">
+		@await Html.PartialAsync("CompanyList", Model)
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(window).scroll(scrollHandler);
+	</script>
+}

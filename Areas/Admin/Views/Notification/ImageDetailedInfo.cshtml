@@ -1,0 +1,65 @@
+﻿@model ImageViewModel
+
+<div class="w-full flex justify-center h-fit" style="height: fit-content;">
+	<div class="flex justify-center w-4/5 p-4">
+		<div class="flex items-center justify-center border-2 border-dashed border-gray-500 bg-white w-1/2 p-2 mr-6" style="max-height: 350px">
+			<img src="@Model.ImageUrl" style="max-height: 340px" />
+		</div>
+		<div class="w-1/2 flex flex-col px-2">
+			<div>
+				<h5 class="h5 text-center mb-1">Image details</h5>
+
+				<div class="py-2 border-b-2 border-gray-500 mb-2">
+					<span class="text-gray-600 mr-2">Title:</span>@Model.Title
+				</div>
+
+				<div class="flex py-2 border-b-2 border-gray-500 mb-2">
+					<span class="text-gray-600 mr-2">Tags:</span>
+
+					@for (int i = 0; i < ViewBag.Tags.Count; i++)
+					{
+						<span>@ViewBag.Tags[i]</span>
+
+						if (i + 1 != ViewBag.Tags.Count)
+						{
+							<span class="text-gray-500 px-2">|</span>
+						}
+					}
+				</div>
+
+				<div class="py-2">
+					<textarea id="msgTxtArea" rows="8" placeholder="Enter your message to the user" style="padding: 5px 10px; width: 100%; border: 1px solid #e6e6e6; border-radius: 10px;"></textarea>
+				</div>
+			</div>
+
+			<div class="flex justify-end">
+				<a id="allow" onclick="imageAllowDeny(this)" href="@Url.Action("AllowImage", "Notification", Model)" class="btn-shadow mr-2">Allow</a>
+				<a id="deny" onclick="imageAllowDeny(this)" href="@Url.Action("DenyImage", "Notification", Model)" class="btn-danger ml-2">Deny</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		function imageAllowDeny(elem) {
+			var message = $('#msgTxtArea').val();
+			var id = elem.id;
+
+			if (message == undefined) {
+				if (id == 'allow') {
+					message = "Thank you for adding a new image! Your contribution is much appreciated."
+				}
+				else if (id == 'deny') {
+					message = "Thank you for submitting a new image to our platform. After careful review, we have decided that it doesn't meet our quality standards.We appreciate your creativity and hope you will consider submitting again in the future."
+				}
+			}
+
+			$.ajax({
+				type: 'POST',
+				url: '/admin/Notification/AddMessage',
+				data: { message: message },
+			});
+		}
+	</script>
+}

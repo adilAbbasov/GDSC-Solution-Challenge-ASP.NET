@@ -1,0 +1,45 @@
+﻿@using GoogleSolution.Models.Entity
+
+
+
+@model User
+
+
+<div class="content-wrapper flex flex-col items-center w-full">
+	<h4 class="h4 my-3">Add User</h4>
+
+	<form class="forms-sample" asp-action="User" asp-controller="User" method="post" enctype="multipart/form-data">
+		<div class="form-group">
+			<div class="flex">
+				<div class="flex flex-col mr-3">
+					<label for="firstName">FirstName</label>
+					<input id="firstName" asp-for="FirstName" type="text" class="form-control my-2 px-2 py-1 border-2 border-solid border-teal-300 rounded" required>
+					<span asp-validation-for=FirstName class="text-sm text-red-500 mb-2"></span>
+				</div>
+
+				<div class="flex flex-col">
+					<label for="lastName">LastName</label>
+					<input id="lastName" asp-for="LastName" type="text" class="form-control my-2 px-2 py-1 border-2 border-solid border-teal-300 rounded" required>
+					<span asp-validation-for=LastName class="text-sm text-red-500 mb-2"></span>
+				</div>
+			</div>
+
+			<div class="flex flex-col">
+				<label for="username">UserName</label>
+				<input id="username" asp-for="UserName" type="text" class="form-control my-2 px-2 py-1 border-2 border-solid border-teal-300 rounded" required>
+				<span asp-validation-for=UserName class="text-sm text-red-500 mb-2"></span>
+			</div>
+
+			<div class="flex flex-col">
+				<label for="email">Email</label>
+				<input id="email" asp-for="Email" type="text" class="form-control my-2 px-2 py-1 border-2 border-solid border-teal-300 rounded" required>
+				<span asp-validation-for=Email class="text-sm text-red-500 mb-2"></span>
+			</div>
+		</div>
+
+		<div class="flex justify-end mt-2">
+			<button type="submit" class="btn-primary btn-shadow mr-2">Add</button>
+			<a href="@Url.Action("Index", "User")" class="btn-danger btn-shadow ml-2">Cancel</a>
+		</div>
+	</form>
+</div>

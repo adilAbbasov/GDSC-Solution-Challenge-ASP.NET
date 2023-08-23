@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>HELPOVERTY</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="~/css/user/bootstrap.min.css">
+	<link rel="stylesheet" href="~/css/user/open-iconic-bootstrap.min.css">
+
+	<link rel="stylesheet" href="~/css/user/owl.carousel.min.css">
+	<link rel="stylesheet" href="~/css/user/owl.theme.default.min.css">
+
+	<link rel="stylesheet" href="~/css/user/icomoon.css">
+	<link rel="stylesheet" href="~/css/user/animate.css">
+	<link rel="stylesheet" href="~/css/user/style.css">
+
+	<script src="https://kit.fontawesome.com/eac357072d.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+	<aside class="probootstrap-aside js-probootstrap-aside">
+		<a href="#" class="probootstrap-close-menu js-probootstrap-close-menu d-md-none">
+			<span><i class="fa-solid fa-arrow-left-long"></i></span> Close
+		</a>
+
+		<div class="probootstrap-site-logo probootstrap-animate" data-animate-effect="fadeInLeft" style="display: flex; align-items: center; justify-content: center;">
+			<a asp-action="Index" asp-controller="Home" class="mb-2 probootstrap-logo">
+				<img class="rounded" src="~/images/user/logo.png" alt="logo">
+			</a>
+		</div>
+
+		<div class="probootstrap-overflow">
+			<nav class="probootstrap-nav">
+				<ul id="nav-ul" class="mt-2">
+					<li class="probootstrap-animate px-1" id="index" data-animate-effect="fadeInLeft">
+						<a asp-action="Index" asp-controller="Home">Home</a>
+					</li>
+					<li class="probootstrap-animate px-1" id="about" data-animate-effect="fadeInLeft">
+						<a asp-action="About" asp-controller="Home">About</a>
+					</li>
+					<li class="probootstrap-animate px-1" id="contact" data-animate-effect="fadeInLeft">
+						<a asp-action="Contact" asp-controller="Home">Contact</a>
+					</li>
+					<li class="probootstrap-animate px-1" id="companies" data-animate-effect="fadeInLeft">
+						<a asp-action="Index" asp-controller="Company">Companies</a>
+					</li>
+					<li class="probootstrap-animate px-1" id="create" data-animate-effect="fadeInLeft">
+						<a asp-action="Create" asp-controller="User">Create &plus;</a>
+					</li
+				
+				</ul>
+			</nav>
+
+			<footer class="probootstrap-aside-footer probootstrap-animate" data-animate-effect="fadeInLeft">
+				<ul class="list-unstyled d-flex probootstrap-aside-social">
+					<li><a href="#" class="p-2"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
+					<li><a href="#" class="p-2"><span><i class="fa-brands fa-instagram"></i></span></a></li>
+					<li><a href="#" class="p-2"><span><i class="fa-brands fa-twitter"></i></span></a></li>
+				</ul>
+				<p>&copy;2022 All Rights Reserved</p>
+			</footer>
+		</div>
+	</aside>
+
+	<main role="main" class="probootstrap-main js-probootstrap-main p-0">
+		<div class="probootstrap-bar">
+			<a href="#" class="probootstrap-toggle js-probootstrap-toggle"><span><i class="fa-solid fa-bars"></i></span></a>
+			<div class="probootstrap-main-site-logo"><a asp-action="Index" asp-controller="Home">PhotoHome</a></div>
+		</div>
+
+		@RenderBody()
+
+	</main>
+
+	@*<script src="~/js/user/jquery-3.2.1.slim.min.js"></script>*@
+	@*<script src="https://unpkg.com/jquery"></script>*@
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+	<script src="~/js/user/popper.min.js"></script>
+	<script src="~/js/user/bootstrap.min.js"></script>
+	<script src="~/js/user/owl.carousel.min.js"></script>
+	<script src="~/js/user/jquery.waypoints.min.js"></script>
+	<script src="~/js/user/imagesloaded.pkgd.min.js"></script>
+	<script src="~/js/user/main.js"></script>
+	<script src="~/js/user/index.js"></script>
+	<script src="~/js/user/lazyloading.js"></script>
+
+	<script>
+		$('#' + '@ViewBag.ActiveMenu').addClass('active');
+	</script>
+
+	@RenderSection("Scripts", required:false)
+
+</body>
+
+</html>

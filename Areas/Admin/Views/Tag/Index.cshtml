@@ -1,0 +1,48 @@
+﻿@model List<Tag>
+
+<div class="flex justify-center bg-white p-4 border-b border-gray-300 overflow-scroll w-full">
+
+	<div class="flex flex-col">
+		<div class="flex flex-col justify-center mb-3">
+			<h4 class="h4">Tags</h4>
+
+			<a href=@Url.Action("AddTag", "Tag") class="btn-shadow mt-3 flex items-center justify-center w-16">Add</a>
+		</div>
+
+		<div class="card">
+			<table class="table-auto text-center">
+				<thead>
+					<tr>
+						<th class="px-4 py-2 border-r">Id</th>
+						<th class="px-4 py-2 border-r">Name</th>
+						<th class="px-4 py-2 border-r">Edit</th>
+						<th class="px-4 py-2">Delete</th>
+					</tr>
+				</thead>
+
+				<tbody class="text-gray-600">
+					@foreach (var tag in Model)
+					{
+						<tr>
+							<td class="border border-l-0 border-b-0 px-4 py-2">
+								@tag.Id
+							</td>
+
+							<td class="border border-l-0 border-b-0 px-4 py-2">
+								@tag.Name
+							</td>
+
+							<td class="border border-l-0 border-b-0 px-4 py-2">
+								<a href="@Url.Action("UpdateTag", "Tag" , new {  Id = tag.Id })" class="btn-shadow w-full">Edit</a>
+							</td>
+
+							<td class="border border-l-0 border-r-0 border-b-0 px-4 py-2">
+								<a href="@Url.Action("DeleteTag", "Tag" , new {  Id = tag.Id })" class="btn-danger btn-shadow w-full">Delete</a>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

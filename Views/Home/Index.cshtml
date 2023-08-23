@@ -1,0 +1,149 @@
+﻿@model List<Picture>
+
+<div class="container-fluid p-3">
+	<div class="d-flex mb-4" id="search-bar">
+		<div id="searchDiv" tabindex="0">
+			@using (Html.BeginForm(null, null, FormMethod.Post, new { style = "width: 100%; display: flex;", onsubmit = "return sendSearchData(event);", id = "searchForm" }))
+			{
+				<button id="searchSubmitBtn" type="submit" onclick="sendSearchData(event)">
+					<span><i class="fa fa-search"></i></span>
+				</button>
+
+				@Html.TextBox("searchTxtBx", null, new { style="width: 100%; margin-left: 10px; border: none; background-color: transparent; outline: none; border-radius: 20px", placeholder="Search", id="searchTxtBx"} )
+			}
+		</div>
+
+		<div class="d-flex justify-content-end align-items-center w-25">
+			@{
+				if (User.Identity.IsAuthenticated)
+				{
+					if (User.IsInRole("Admin"))
+					{
+						<partial name="BeforeRegistration" />
+					}
+					else
+					{
+						<span id="noti-bell" onclick="notiClick()">
+							<i class="fa-regular fa-bell"></i>
+
+							@if (ViewBag.NotificationMessages?.Count > 0)
+							{
+								<div id="noti-count" onclick="notiClick()">
+									<i class="fa-solid fa-1"></i>
+								</div>
+							}
+						</span>
+
+						<partial name="AfterRegistration" model="@ViewBag.User" />
+					}
+				}
+				else
+				{
+					<partial name="BeforeRegistration" />
+				}
+			}
+		</div>
+	</div>
+
+	<div id="searchSuggestions">
+		<ul id="suggestionsUL"></ul>
+	</div>
+
+	<div id="notifications">
+		<div style="display: flex; align-items: center; justify-content: space-between;">
+			<h4 id="noti-header">Notifications</h4>
+
+			@if (ViewBag.NotificationMessages?.Count > 0)
+			{
+				<span id="mark-read" title="Mark all as read" onclick="markAsRead()">
+					<i class="fa-solid fa-check"></i>
+				</span>
+			}
+		</div>
+
+		<ul id="notificationsUl">
+			@if (ViewBag.NotificationMessages?.Count == 0)
+			{
+				<p style="margin: 0; padding: 5px 10px;">There are currently no notifications for you.</p>
+			}
+
+			@for (int i = 0; i < ViewBag.NotificationMessages?.Count; i++)
+			{
+				<li class="noti-li" onclick="notiClick(this)">
+					<div class="noti-text">
+						<div style="width: 290px">
+							@ViewBag.NotificationMessages[i]
+						</div>
+						<div style="color: #1FAD9F; font-size: .8em;">
+							@ViewBag.NotificationTimes[i]
+						</div>
+					</div>
+					<div class="noti-new" style="width: 15px; height: 15px; background-color: #1FAD9F; border-radius: 50%;"></div>
+				</li>
+			}
+		</ul>
+	</div>
+
+	<div class="mb-4">
+		<div class="owl-carousel" id="category-carousel">
+
+			@foreach (var item in ViewBag.Companies)
+			{
+				<div style="width: 100%; overflow: hidden; border-radius: 20px;">
+					<div class="item">
+						<a href="@Url.Action("CompanyInfo", "Company", new { id = item.Id })">
+							<div class="companyClass" style="background-image: url('@item.LogoUrl');"></div>
+						</a>
+					</div>
+				</div>
+			}
+
+		</div>
+	</div>
+
+	<div class="card-columns" id="divajaxCall">
+		@await Html.PartialAsync("ImageList", Model)
+	</div>
+</div>
+
+@section Scripts{
+	<script>
+		if (window.location.href.endsWith("/Home/Index") || window.location.href.endsWith('/')) {
+			if (localStorage.getItem('searchPattern') !== null)
+				localStorage.removeItem('searchPattern');
+
+			if (localStorage.getItem('searchType') !== null)
+				localStorage.removeItem('searchType');
+		}
+
+		$(window).scroll(scrollHandler);
+	</script>
+
+	<script type="text/javascript">
+		$('.owl-carousel').owlCarousel({
+			autoplay: true,
+			autoplayTimeout: 1750,
+			//autoplayHoverPause: true,
+			loop: true,
+			margin: 10,
+			nav: true,
+			responsive: {
+				576: {
+					items: 1
+				},
+				768: {
+					items: 2
+				},
+				960: {
+					items: 3
+				},
+				1000: {
+					items: 4
+				}
+			}
+		})
+
+		$('.owl-prev').html('<span><i class="fa-solid fa-chevron-left"></i></span>')
+		$('.owl-next').html('<span><i class="fa-solid fa-chevron-right"></i></span>')
+	</script>
+}

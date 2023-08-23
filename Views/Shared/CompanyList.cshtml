@@ -1,0 +1,75 @@
+﻿@model List<Company>
+
+@{
+	int count = 3;
+
+	var listImage = new List<List<Company>>()
+	{
+		new List<Company>(),
+		new List<Company>(),
+		new List<Company>()
+	};
+
+	if (Model.Count > 0)
+	{
+		int loopCount = 0;
+
+		int totalCount = Model.Count;
+		int remain = totalCount % count;
+
+		int limit = 0;
+
+		if (totalCount < count)
+		{
+			limit = 1;
+			loopCount = remain;
+		}
+		else
+		{
+			limit = totalCount / count;
+			loopCount = count;
+		}
+
+		//
+		for (int i = 0; i < loopCount; i++)
+		{
+			for (int j = i * limit; j < (i + 1) * limit; j++)
+			{
+				listImage[i].Add(Model[j]);
+			}
+		}
+
+		//
+		if (loopCount == count)
+		{
+			for (int i = 0; i < remain; i++)
+			{
+				listImage[i].Add(Model[(totalCount - remain) + i]);
+			}
+		}
+	}
+}
+
+@if (Model.Count != 0)
+{
+	@for (int i = 0; i < count; i++)
+	{
+		<div class="image-column">
+
+			@foreach (var item in listImage[i])
+			{
+				<div class="card" id="image_card" style="display:flex; align-items:center; justify-content:center; height: 200px !important; overflow:hidden; padding: 10px;">
+					<a href="@Url.Action( "CompanyInfo", "Company", new {  Id = item.Id })">
+						<img class="card-img-top probootstrap-animate" src="@item.LogoUrl" alt="company logo" style="max-height: 180px; border-radius: 0px;">
+					</a>
+				</div>
+			}
+
+		</div>
+		<br />
+	}
+}
+else
+{
+	<h1 style="width: 100%; text-align: center;">No results found</h1>
+}

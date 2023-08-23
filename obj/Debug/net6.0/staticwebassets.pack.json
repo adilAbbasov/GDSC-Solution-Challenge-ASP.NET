@@ -1,0 +1,1057 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GoogleSolution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GoogleSolution.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\auth.json",
+      "PackagePath": "staticwebassets\\auth.json"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\admin\\style.css",
+      "PackagePath": "staticwebassets\\css\\admin\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\animate.css",
+      "PackagePath": "staticwebassets\\css\\user\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\background.css",
+      "PackagePath": "staticwebassets\\css\\user\\background.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\user\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\user\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\user\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\user\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\user\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\css\\user\\style.css",
+      "PackagePath": "staticwebassets\\css\\user\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\user\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\user\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\user\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\user\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\fonts\\user\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\fonts\\user\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\fonts\\user\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\user\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\fonts\\user\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\fonts\\user\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\congrats.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\congrats.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\fav.png",
+      "PackagePath": "staticwebassets\\images\\admin\\fav.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\food.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\food.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\happy.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\happy.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\index-1.png",
+      "PackagePath": "staticwebassets\\images\\admin\\index-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\index.png",
+      "PackagePath": "staticwebassets\\images\\admin\\index.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\logo.png",
+      "PackagePath": "staticwebassets\\images\\admin\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\sneakers.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\sneakers.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\soccer.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\soccer.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\socks.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\socks.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\tailwindcss.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\tailwindcss.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\user.svg",
+      "PackagePath": "staticwebassets\\images\\admin\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\user1.jpg",
+      "PackagePath": "staticwebassets\\images\\admin\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\user2.jpg",
+      "PackagePath": "staticwebassets\\images\\admin\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\admin\\user3.jpg",
+      "PackagePath": "staticwebassets\\images\\admin\\user3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\Thank.png",
+      "PackagePath": "staticwebassets\\images\\user\\Thank.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\adilabbasov.png",
+      "PackagePath": "staticwebassets\\images\\user\\adilabbasov.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\hasanrzayev.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\hasanrzayev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\landscape1.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\landscape1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\landscape2.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\landscape2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\logo.png",
+      "PackagePath": "staticwebassets\\images\\user\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\images\\user\\stepit.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\stepit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\admin\\main.js",
+      "PackagePath": "staticwebassets\\js\\admin\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\addimage.js",
+      "PackagePath": "staticwebassets\\js\\user\\addimage.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\user\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\dragdrop.js",
+      "PackagePath": "staticwebassets\\js\\user\\dragdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\user\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\index.js",
+      "PackagePath": "staticwebassets\\js\\user\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\user\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\user\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\lazyloading.js",
+      "PackagePath": "staticwebassets\\js\\user\\lazyloading.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\main.js",
+      "PackagePath": "staticwebassets\\js\\user\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\user\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\user\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\showPassword.js",
+      "PackagePath": "staticwebassets\\js\\user\\showPassword.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\js\\user\\taginput.js",
+      "PackagePath": "staticwebassets\\js\\user\\taginput.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\admin\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\admin\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\01fb7239-3c73-44a3-8a6e-443261dd5b81.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\01fb7239-3c73-44a3-8a6e-443261dd5b81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\113e65ca-f8fe-48ac-9ecb-7093878b5148.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\113e65ca-f8fe-48ac-9ecb-7093878b5148.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\11de2cb2-534c-4906-8b28-99429f1665f9.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\11de2cb2-534c-4906-8b28-99429f1665f9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\1242df96-8be3-4730-9def-e596909daec4.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\1242df96-8be3-4730-9def-e596909daec4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\1541222c-772d-481b-a3d5-ced3acda9a85.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\1541222c-772d-481b-a3d5-ced3acda9a85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\17b9ffad-2f55-4eb7-a10e-3844a0f6a001.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\17b9ffad-2f55-4eb7-a10e-3844a0f6a001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\17da3ac0-0f41-4937-b876-d024e577c466.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\17da3ac0-0f41-4937-b876-d024e577c466.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\2de6cde3-a9e9-4758-b0c6-c30211558f3d.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\2de6cde3-a9e9-4758-b0c6-c30211558f3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\2e1451ce-4d35-44fd-9441-88f744d18575.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\2e1451ce-4d35-44fd-9441-88f744d18575.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\2e476343-9926-47ca-83dd-8da8ce41ae5e.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\2e476343-9926-47ca-83dd-8da8ce41ae5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\3066b6ae-98b3-4619-89b0-bbff8edcaaca.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\3066b6ae-98b3-4619-89b0-bbff8edcaaca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\30de9164-927e-47ec-9393-aaa3f9f3b56f.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\30de9164-927e-47ec-9393-aaa3f9f3b56f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\32f48bc1-142e-4a58-b959-dcbc8c3ab01d.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\32f48bc1-142e-4a58-b959-dcbc8c3ab01d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\388d5f40-dd65-41e5-ba31-420ddb55f3c0.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\388d5f40-dd65-41e5-ba31-420ddb55f3c0.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\3bf62e71-f51f-42d7-bacd-13c6621f39d1.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\3bf62e71-f51f-42d7-bacd-13c6621f39d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\3de7dd2e-55cb-4145-8968-1e42855dbe90.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\3de7dd2e-55cb-4145-8968-1e42855dbe90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\3f257124-87df-4a93-92b9-82e26bb9ed53.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\3f257124-87df-4a93-92b9-82e26bb9ed53.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\468bca1a-60ec-4290-924d-d3380b736a58.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\468bca1a-60ec-4290-924d-d3380b736a58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\4a5132ad-5e33-4818-8467-8d4b719386f4.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\4a5132ad-5e33-4818-8467-8d4b719386f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\579baae5-d466-470c-bb2a-59bd39b7cb12.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\579baae5-d466-470c-bb2a-59bd39b7cb12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\5ffabf14-743e-4208-875b-38bfd77f5eb9.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\5ffabf14-743e-4208-875b-38bfd77f5eb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\630219e1-d8a5-41de-924e-21008c75985c.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\630219e1-d8a5-41de-924e-21008c75985c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\6310a20b-eede-4a44-9f45-785e66c7554b.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\6310a20b-eede-4a44-9f45-785e66c7554b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\64bea24b-2b17-44be-9f70-3c280b98c261.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\64bea24b-2b17-44be-9f70-3c280b98c261.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\6b25640c-6aa4-4e9a-bed3-c7d1785c86eb.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\6b25640c-6aa4-4e9a-bed3-c7d1785c86eb.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\6fed037a-506a-4abb-8c08-3a462205e447.jpeg",
+      "PackagePath": "staticwebassets\\uploadedImages\\6fed037a-506a-4abb-8c08-3a462205e447.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\758d5c60-e344-4c6a-af06-a59b481c6ea8.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\758d5c60-e344-4c6a-af06-a59b481c6ea8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\7edfe699-7120-4270-a43a-a019f57d1442.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\7edfe699-7120-4270-a43a-a019f57d1442.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\7fda650e-4399-45ca-853f-42e2fea3d5e0.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\7fda650e-4399-45ca-853f-42e2fea3d5e0.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\83feecdf-d676-4ace-925b-2e29efe3c200.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\83feecdf-d676-4ace-925b-2e29efe3c200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\853b0dcf-7df8-489e-bc48-769e07c1aba3.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\853b0dcf-7df8-489e-bc48-769e07c1aba3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\896d586d-9be9-4bcf-bbbf-defb01b6f5fe.jpeg",
+      "PackagePath": "staticwebassets\\uploadedImages\\896d586d-9be9-4bcf-bbbf-defb01b6f5fe.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\8a64dc3b-e897-49d4-a4b8-714a5b7e97ff.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\8a64dc3b-e897-49d4-a4b8-714a5b7e97ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\97a3a3e7-1991-4944-8bd2-ff8c81c13c76.jpeg",
+      "PackagePath": "staticwebassets\\uploadedImages\\97a3a3e7-1991-4944-8bd2-ff8c81c13c76.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\a473576c-4c9f-4ea6-88b4-77b5256b003d.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\a473576c-4c9f-4ea6-88b4-77b5256b003d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\a49fbfc9-4041-40d5-b6ac-27caaf9d7687.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\a49fbfc9-4041-40d5-b6ac-27caaf9d7687.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\a4d8a263-6fca-4cff-8e92-1122631eb887.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\a4d8a263-6fca-4cff-8e92-1122631eb887.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\a68acab3-3bf7-427a-b6bc-9110d88793bd.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\a68acab3-3bf7-427a-b6bc-9110d88793bd.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\b1be24ec-bd6f-4de1-acb8-e9016a640352.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\b1be24ec-bd6f-4de1-acb8-e9016a640352.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\b3fab614-e4a3-460a-94fa-1cda12cb4be2.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\b3fab614-e4a3-460a-94fa-1cda12cb4be2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\ba256570-c8ef-4fb5-867a-729cffcb2bb3.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\ba256570-c8ef-4fb5-867a-729cffcb2bb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\c350b4f7-3cc2-4c72-b7e2-f6468e8660d7.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\c350b4f7-3cc2-4c72-b7e2-f6468e8660d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\c6c80706-8fe8-4f11-b272-f0b7e653c58c.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\c6c80706-8fe8-4f11-b272-f0b7e653c58c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\c920f9a5-20e6-4e96-9a67-deadbd7ef741.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\c920f9a5-20e6-4e96-9a67-deadbd7ef741.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\d63c999b-a40b-496a-b3f2-96eb530a6a4d.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\d63c999b-a40b-496a-b3f2-96eb530a6a4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\d66886d8-cd0c-443e-a4af-a48d42570223.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\d66886d8-cd0c-443e-a4af-a48d42570223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\d8282ada-626c-4e79-bb93-3fd78fda0360.jpeg",
+      "PackagePath": "staticwebassets\\uploadedImages\\d8282ada-626c-4e79-bb93-3fd78fda0360.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\d96d9f16-81cc-4086-bf69-6950708a32aa.jpeg",
+      "PackagePath": "staticwebassets\\uploadedImages\\d96d9f16-81cc-4086-bf69-6950708a32aa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\e15459c0-7ff0-43a8-b970-e7ee376441be.jpeg",
+      "PackagePath": "staticwebassets\\uploadedImages\\e15459c0-7ff0-43a8-b970-e7ee376441be.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\e42115ad-8130-4b33-a328-bc34f97b7c5e.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\e42115ad-8130-4b33-a328-bc34f97b7c5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\fb716e02-b2e1-4978-ada0-76a698d98d5c.jpg",
+      "PackagePath": "staticwebassets\\uploadedImages\\fb716e02-b2e1-4978-ada0-76a698d98d5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Dropbox\\Мой ПК (Adil)\\Desktop\\GoogleSolution\\wwwroot\\uploadedImages\\ffa9951f-03b5-40c1-958e-b326257a4e9e.png",
+      "PackagePath": "staticwebassets\\uploadedImages\\ffa9951f-03b5-40c1-958e-b326257a4e9e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GoogleSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GoogleSolution.props",
+      "PackagePath": "build\\GoogleSolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GoogleSolution.props",
+      "PackagePath": "buildMultiTargeting\\GoogleSolution.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GoogleSolution.props",
+      "PackagePath": "buildTransitive\\GoogleSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,95 @@
+﻿@model Company
+
+@{
+	int count = 2;
+
+	var listImage = new List<List<Company>>()
+	{
+		new List<Company>(),
+		new List<Company>(),
+	};
+
+	if (ViewBag.RelatedCompanies.Count > 0)
+	{
+		int loopCount = 0;
+
+		int totalCount = ViewBag.RelatedCompanies.Count;
+		int remain = totalCount % count;
+
+		int limit = 0;
+
+		if (totalCount < count)
+		{
+			limit = 1;
+			loopCount = remain;
+		}
+		else
+		{
+			limit = totalCount / count;
+			loopCount = count;
+		}
+
+		//
+		for (int i = 0; i < loopCount; i++)
+		{
+			for (int j = i * limit; j < (i + 1) * limit; j++)
+			{
+				listImage[i].Add(ViewBag.RelatedCompanies[j]);
+			}
+		}
+
+		//
+		if (loopCount == count)
+		{
+			for (int i = 0; i < remain; i++)
+			{
+				listImage[i].Add(ViewBag.RelatedCompanies[(totalCount - remain) + i]);
+			}
+		}
+	}
+}
+
+<div class="container-fluid p-4">
+	<div class="col-lg-10 mx-auto">
+		<div class="row">
+			<div class="col-lg-12 col-lg-12" id="info-detail">
+				<div class="col-lg-12" style="display: flex; align-items: center; justify-content:space-around; padding: 20px 10px; margin-bottom: 10px; gap: 10px;">
+					<div class="col-lg-6" style="height: 100%; /*border: 1px solid silver*/; border-radius: 20px; display: flex; align-items: center; justify-content: center; padding: 10px;">
+						<img src="@Model.LogoUrl" style="max-height: 350px; max-width: 100%" />
+					</div>
+
+					<div class="col-lg-6" style="display:flex; flex-direction: column; justify-content: center; height: 100%;">
+						<a href="@Model.SiteUrl" style="font-size: 1.4em; font-weight: bold; width: fit-content; margin-bottom: 10px;">@Model.Name</a>
+						<p>@Model.About</p>
+					</div>
+				</div>
+
+				<div class="col-lg-12" style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+					<iframe width=" 720" height="400" src="@Model.VideoUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+
+				<div id="recommended-images">
+					<div class="card-columns">
+
+						@for (int i = 0; i < count; i++)
+						{
+							<div class="image-column">
+
+								@foreach (var item in listImage[i])
+								{
+									<div class="card" id="image_card" style="display:flex; align-items:center; justify-content:center; height: 240px !important; overflow:hidden; padding: 10px;">
+										<a href="@Url.Action( "CompanyInfo", "Company", new {  Id = item.Id })">
+											<img class="card-img-top probootstrap-animate" src="@item.LogoUrl" alt="company logo" style="max-height: 220px; border-radius: 0px;">
+										</a>
+									</div>
+								}
+
+							</div>
+						}
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

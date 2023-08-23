@@ -1,0 +1,545 @@
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\PhotoHome.staticwebassets.runtime.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\PhotoHome.exe
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\PhotoHome.deps.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\PhotoHome.runtimeconfig.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\PhotoHome.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\PhotoHome.pdb
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\EASendMail.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Mapster.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\MediatR.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.AssemblyReference.cache
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.AssemblyInfoInputs.cache
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.AssemblyInfo.cs
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.CoreCompileInputs.cache
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cache
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cs
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.PhotoHome.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotoHome.props
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotoHome.props
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotoHome.props
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\scopedcss\bundle\PhotoHome.styles.css
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\scopedcss\projectbundle\PhotoHome.bundle.scp.css
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.CopyComplete
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\refint\PhotoHome.dll
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.pdb
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\PhotoHome.genruntimeconfig.cache
+C:\Users\acer\Source\Repos\PhotoHome\Pinterest\obj\Debug\net6.0\ref\PhotoHome.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\PhotoHome.staticwebassets.runtime.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\PhotoHome.exe
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\PhotoHome.deps.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\PhotoHome.runtimeconfig.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\PhotoHome.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\PhotoHome.pdb
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\EASendMail.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Mapster.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\MediatR.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.AssemblyReference.cache
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.AssemblyInfoInputs.cache
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.AssemblyInfo.cs
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.CoreCompileInputs.cache
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cache
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cs
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.PhotoHome.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotoHome.props
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotoHome.props
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotoHome.props
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\scopedcss\bundle\PhotoHome.styles.css
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\scopedcss\projectbundle\PhotoHome.bundle.scp.css
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.CopyComplete
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\refint\PhotoHome.dll
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.pdb
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\PhotoHome.genruntimeconfig.cache
+C:\Users\acer\Dropbox\Мой ПК (Adil)\Desktop\Pinterest\obj\Debug\net6.0\ref\PhotoHome.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\appsettings.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\PhotoHome.staticwebassets.runtime.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\PhotoHome.exe
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\PhotoHome.deps.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\PhotoHome.runtimeconfig.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\PhotoHome.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\PhotoHome.pdb
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\EASendMail.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Mapster.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\MediatR.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.AssemblyReference.cache
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.AssemblyInfoInputs.cache
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.AssemblyInfo.cs
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cache
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cs
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\scopedcss\bundle\PhotoHome.styles.css
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\scopedcss\projectbundle\PhotoHome.bundle.scp.css
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.csproj.CopyComplete
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\refint\PhotoHome.dll
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.pdb
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\PhotoHome.genruntimeconfig.cache
+C:\Users\Hasan\Downloads\Pinterest (10)\Pinterest\obj\Debug\net6.0\ref\PhotoHome.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.AssemblyInfo.cs
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cache
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cs
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\refint\PhotoHome.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.pdb
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.staticwebassets.runtime.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.exe
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.deps.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.runtimeconfig.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.pdb
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\EASendMail.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Mapster.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\MediatR.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets\msbuild.PhotoHome.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets\msbuild.build.PhotoHome.props
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PhotoHome.props
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PhotoHome.props
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\scopedcss\bundle\PhotoHome.styles.css
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\scopedcss\projectbundle\PhotoHome.bundle.scp.css
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.csproj.CopyComplete
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.genruntimeconfig.cache
+C:\Users\acer\source\repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\ref\PhotoHome.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.staticwebassets.runtime.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.exe
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.deps.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.runtimeconfig.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\PhotoHome.pdb
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\EASendMail.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Mapster.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\MediatR.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.csproj.AssemblyReference.cache
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.AssemblyInfoInputs.cache
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.AssemblyInfo.cs
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cache
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.RazorAssemblyInfo.cs
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\scopedcss\bundle\PhotoHome.styles.css
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\scopedcss\projectbundle\PhotoHome.bundle.scp.css
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.csproj.CopyComplete
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\refint\PhotoHome.dll
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.pdb
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\PhotoHome.genruntimeconfig.cache
+C:\Users\Hasan\Source\Repos\GoogleSolution\GoogleSolution\obj\Debug\net6.0\ref\PhotoHome.dll

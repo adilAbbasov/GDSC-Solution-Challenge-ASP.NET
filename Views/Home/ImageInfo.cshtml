@@ -1,0 +1,187 @@
+﻿@model Picture
+
+@{
+	int count = 2;
+
+	var listImage = new List<List<Picture>>()
+	{
+		new List<Picture>(),
+		new List<Picture>(),
+	};
+
+	if (ViewBag.RelatedImages.Count > 0)
+	{
+		int loopCount = 0;
+
+		int totalCount = ViewBag.RelatedImages.Count;
+		int remain = totalCount % count;
+
+		int limit = 0;
+
+		if (totalCount < count)
+		{
+			limit = 1;
+			loopCount = remain;
+		}
+		else
+		{
+			limit = totalCount / count;
+			loopCount = count;
+		}
+
+		//
+		for (int i = 0; i < loopCount; i++)
+		{
+			for (int j = i * limit; j < (i + 1) * limit; j++)
+			{
+				listImage[i].Add(ViewBag.RelatedImages[j]);
+			}
+		}
+
+		//
+		if (loopCount == count)
+		{
+			for (int i = 0; i < remain; i++)
+			{
+				listImage[i].Add(ViewBag.RelatedImages[(totalCount - remain) + i]);
+			}
+		}
+	}
+}
+
+<div class="container-fluid p-4">
+	<div class="col-lg-10 mx-auto">
+		<div class="row">
+			<div class="col-lg-12 col-lg-12" id="info-detail">
+				<div class="col-lg-12" id="image-interaction">
+					<div id="account-actions">
+						<a href="#" class="account-img">@Model.User.UserName.ToUpper().ToCharArray()[0]</a>
+						<span>@Model.User.UserName</span>
+					</div>
+
+					<div id="image-actions">
+						<div id="like-div">
+							<button class="bubbly-button mr-2" style="background-color: transparent; padding: 0;">
+								<span class="like-span bubbly-button" id="@Model.ImageUrl" name="heart" onclick="likeClick(this)">
+									<i class="fa-solid fa-heart"></i>
+								</span>
+							</button>
+
+							<span>@Model.LikeCount</span>
+						</div>
+
+						<div id="image-download">
+							<a class="download-btn DownloadButton" id="@Model.ImageUrl" onclick="get_span(this)">Download free</a>
+
+							<div style="background-color: #1FAD9F; height: 45px; display:flex; align-items:center; justify-content:center">|</div>
+
+							<div class="options">
+								<input class="dropdown" type="checkbox" id="dropdown" name="dropdown" />
+
+								<label class="for-dropdown" for="dropdown">
+									<i class="fa-solid fa-chevron-down"></i>
+								</label>
+
+								<div class="section-dropdown" style="width: 190px; padding: 10px 15px; display:flex; flex-direction:column; align-items:center">
+									<div style="display:flex; align-items:center; justify-content:flex-start; width:100%">Image type: .jpg</div>
+									<div style="display:flex; align-items:center; justify-content:flex-start; width:100%">Image size: 4 mb</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-12" id="image-container">
+					<img src="@Model.ImageUrl" />
+				</div>
+
+				<div class="col-lg-12" id="image-info">
+					<h3 id="image-title">@Model.Title</h3>
+				</div>
+
+				<div class="col-lg-12" id="image-tags">
+					<h4>More related content</h4>
+
+					<div class="owl-carousel" id="tag-carousel">
+						@{
+							foreach (var item in ViewBag.Tags)
+							{
+								<div class="item">
+									<a href="@Url.Action("Search", "Home" , new { searchPattern = item.Name, searchType = "tag" })" onclick="sendSearchData(event, this)">@item.Name</a>
+								</div>
+							}
+						}
+					</div>
+				</div>
+
+				<div id="recommended-images">
+					<div class="card-columns">
+
+						@for (int i = 0; i < count; i++)
+						{
+							<div class="image-column">
+
+								@foreach (var image in listImage[i])
+								{
+									<div class="card" id="image_card">
+										<img class="card-img-top probootstrap-animate" src="@image.ImageUrl" alt="Card image cap">
+
+										<div class="card-div d-flex flex-column justify-content-between align-items-end">
+											<div class="d-flex flex-row mt-3 mr-3">
+												<button class="card-div-btn bubbly-button mr-2">
+													<span class="like-span bubbly-button" id="@image.ImageUrl" name="heart" onclick="likeClick(this)">
+														<i class="fa-solid fa-heart"></i>
+													</span>
+												</button>
+
+												<button class="card-div-btn" id="download">
+													<span class="DownloadButton" id="@image.ImageUrl" onclick="get_span(this)">
+														<i class="fa-solid fa-download"></i>
+													</span>
+												</button>
+											</div>
+
+											<div class="mb-3 mr-3 d-flex justify-content-end">
+												<a href="@Url.Action("ImageInfo", "Home" , new {Id = image.ImageUrl})" id="more">
+													<span class="py-2 px-3">More</span>
+												</a>
+											</div>
+										</div>
+									</div>
+								}
+
+							</div>
+						}
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
+
+	<script>
+		$('.owl-carousel').owlCarousel({
+			//loop: true,
+			margin: 10,
+			nav: true,
+			responsive: {
+				0: {
+					items: 3
+				},
+				768: {
+					items: 4
+				},
+				1000: {
+					items: 5
+				}
+			}
+		})
+
+		$('.owl-prev').html('<span><i class="fa-solid fa-chevron-left"></i></span>')
+		$('.owl-next').html('<span><i class="fa-solid fa-chevron-right"></i></span>')
+	</script>
+}

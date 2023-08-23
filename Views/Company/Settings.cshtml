@@ -1,0 +1,105 @@
+﻿@model Company
+
+<div class="container-fluid p-4">
+	<div class="row justify-content-center">
+		<div class="col-xl-8 col-lg-12">
+			<div class="row">
+				<div class="col-xl-12 col-lg-12">
+					<h1>Profile</h1>
+					<h6 class="mb-4">People visiting your profile will see the following info</h6>
+
+					<span>@*Exception*@</span>
+
+					<form asp-action="Settings" method="post" asp-controller="Company" class="probootstrap-form">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group mb-3" style="display: flex; flex-direction: column; align-items: center;">
+									<div class="mx-auto" id="user-image">
+										@if (Model.VideoUrl != null)
+										{
+											<div id="pp-dragger" style="background-color: transparent; width: 100%; height: 100%; display: flex; border-radius: 50%; background-position: center center; background-size: cover; background-repeat: no-repeat; background-image: url('@Model.LogoUrl')">
+												<a id="browse" onclick="inputClick()" style="border-radius: 50%; width: 100%; border: none; background-color: transparent; font-size: 3em; color: #fff; display: flex; align-items: center; justify-content: center;"></a>
+												<input type="file" hidden id="fileInput" accept="image/png,image/jpg,image/jpeg,image/gif" />
+											</div>
+										}
+										else
+										{
+
+											<div id="pp-dragger" style="background-color: #1FAD9F; width: 100%; height: 100%; display: flex; border-radius: 50%; background-position: center; background-size: cover; background-repeat: no-repeat;">
+												<a id="browse" onclick="inputClick()" style="border-radius: 50%; width: 100%; border: none; background-color: transparent; font-size: 3em; color: #fff; display: flex; align-items: center; justify-content: center;">
+													@Model.Name.ToUpper().ToCharArray()[0]
+												</a>
+												<input type="file" hidden id="fileInput" accept="image/png,image/jpg,image/jpeg,image/gif" />
+											</div>
+										}
+									</div>
+									<span id="error-span" class="text-danger mt-3"></span>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<label for="name">Company Name</label>
+									<input type="text" id="name" class="form-control" asp-for="Name" value="@Model.Name" required>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<label for="about">About</label>
+									<textarea cols="30" rows="10" id="about" class="form-control" asp-for="About" name="about" placeholder="Write interesting information about yourself" required></textarea>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<label for="siteUrl">Site Url</label>
+									<input type="text" id="siteUrl" class="form-control" asp-for="SiteUrl" value="@Model.SiteUrl" required>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<label for="videoUrl">Video Url</label>
+									<input type="text" id="videoUrl" class="form-control" asp-for="VideoUrl" value="@Model.VideoUrl" required>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<label for="email">Email</label>
+									<input type="text" id="email" class="form-control" asp-for="Email" value="@Model.CompanyUser.Email" disabled style="color: #495057 !important">
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<label for="username">Username</label>
+									<input type="text" id="username" class="form-control" asp-for="UserName" value="@Model.CompanyUser.UserName" required>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-6 d-flex justify-content-end">
+								<input type="submit" class="btn btn-primary" id="submit" name="submit" value="Save">
+							</div>
+							<div class="col-md-6 d-flex justify-content-start">
+								<input type="reset" class="btn btn-primary" id="submit" name="submit" value="Reset">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script src="~/js/user/addimage.js"></script>
+}

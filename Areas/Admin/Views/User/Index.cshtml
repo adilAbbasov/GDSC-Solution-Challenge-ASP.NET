@@ -1,0 +1,89 @@
+﻿@using GoogleSolution.Models.Entity
+@model List<User>
+
+<div class="flex justify-center bg-white p-4 border-b border-gray-300 w-full">
+
+	<div class="flex flex-col"">
+		<div class="flex flex-col justify-center mb-3">
+			<h4 class="h4">Users</h4>
+
+			<a href=@Url.Action("AddUser", "User") class="btn-shadow mt-3 flex items-center justify-center w-16">Add</a>
+		</div>
+
+		<div class="card">
+			<table class="table-auto text-center">
+				<thead>
+					<tr>
+						<th class="px-4 py-2 border-r">Id</th>
+						<th class="px-4 py-2 border-r">FirstName</th>
+						<th class="px-4 py-2 border-r">LastName</th>
+						<th class="px-4 py-2 border-r">UserName</th>
+						<th class="px-4 py-2 border-r">Email</th>
+						<th class="px-4 py-2 border-r">Edit</th>
+						<th class="px-4 py-2">Delete</th>
+					</tr>
+				</thead>
+
+				<tbody class="text-gray-600">
+					@foreach (var user in Model)
+					{
+						<tr>
+							@if (user.Id.Length > 10)
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2" title="@user.Id">@user.Id.Substring(0, 7)...</td>
+							}
+							else
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2">@user.Id</td>
+							}
+
+							@if (user.FirstName.Length > 10)
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2" title="@user.FirstName">@user.FirstName.Substring(0, 7)...</td>
+							}
+							else
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2">@user.FirstName</td>
+							}
+
+							@if (user.LastName.Length > 10)
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2" title="@user.LastName">@user.LastName.Substring(0, 7)...</td>
+							}
+							else
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2">@user.LastName</td>
+							}
+
+							@if (user.UserName.Length > 10)
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2" title="@user.UserName">@user.UserName.Substring(0, 7)...</td>
+							}
+							else
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2">@user.UserName</td>
+							}
+
+							@if (user.Email.Length > 10)
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2" title="@user.Email">@user.Email.Substring(0, 7)...</td>
+							}
+							else
+							{
+						<td class="border border-l-0 border-b-0 px-4 py-2">@user.Email</td>
+							}
+
+						<td class="border border-l-0 border-b-0 px-4 py-2">
+							<a href="@Url.Action("UpdateUser", "User", new {  Id = user.Id })" class="btn-shadow w-full">Edit</a>
+							</td>
+
+						<td class="border border-l-0 border-r-0 border-b-0 px-4 py-2">
+							<a href="@Url.Action("DeleteUser", "User", new {  Id = user.Id })" class="btn-danger btn-shadow w-full">Delete</a>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
